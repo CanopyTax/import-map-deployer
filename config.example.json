@@ -1,0 +1,16 @@
+{
+  "manifestFormat": "importmap",
+  "locations": {
+    "dev": {
+      "azureContainer": "importmap",
+      "azureBlob": "importmap.json",
+      "azureConnectionString": "",
+      "azureAccount": "",
+      "azureAccessKey": ""
+    }
+  },
+  "username": "admin",
+  "password": "admin",
+  "urlSafeList": ["https://stadffc635nxtwebdevweu.blob.core.windows.net/", "https://cdn.jsdelivr.net/"],
+  "packagesViaTrailingSlashes": false
+}
